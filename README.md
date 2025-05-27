@@ -2,6 +2,8 @@
 
 A simple HTML & CSS clone of the Indian government's [MyGov](https://www.mygov.in/) website homepage. This project replicates the structure and styling of the official site to showcase static web design skills.
 
+## [Live Demo](https://saikatweb2003.github.io/My_Gov)
+
 ## Screenshot
 
 ![Screenshot](https://github.com/SaikatWeb2003/My_Gov/blob/main/My_Gov.png)
