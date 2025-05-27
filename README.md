@@ -4,7 +4,7 @@ A simple HTML & CSS clone of the Indian government's [MyGov](https://www.mygov.i
 
 ## Screenshot
 
-![Screenshot]()
+![Screenshot](https://github.com/SaikatWeb2003/My_Gov/blob/main/My_Gov.png)
 
 ## 🛠️ Technologies Used
 
